@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Que bicho é esse?</string>
+
+    <string name="proximo">Próximo</string>
+
+    <string name="sapo">Sapo</string>
+    <string name="urso">Urso</string>
+    <string name="abelha">Abelha</string>
+    <string name="cavalo">Cavalo</string>
+    <string name="vaca">Vaca</string>
+    <string name="doninha">Doninha</string>
+    <string name="cachorro">Cachorro</string>
+    <string name="ovelha">Ovelha</string>
+    <string name="bode">Bode</string>
+    <string name="passarinho">Passarinho</string>
+    <string name="jacare">Jacaré</string>
+    <string name="galinha">Galinha</string>
+    <string name="dinossauro">Dinossauro</string>
+    <string name="cobra">Cobra</string>
+    <string name="tigre">Tigre</string>
+    <string name="elefante">Elefante</string>
+    <string name="golfinho">Golfinho</string>
+    <string name="camelo">Camelo</string>
+    <string name="onca">Onça</string>
+    <string name="quero_quero">Quero-Quero</string>
+    <string name="unicornio">Unicórnio</string>
+    <string name="girafa">Girafa</string>
+    <string name="tartaruga">Tartaruga</string>
+    <string name="coruja">Coruja</string>
+    <string name="rinoceronte">Rinoceronte</string>
+    <string name="rato">Rato</string>
+    <string name="leao">Leão</string>
+    <string name="foca">Foca</string>
+    <string name="besouro">Besouro</string>
+    <string name="hamster">Hamster</string>
+    <string name="urubu">Urubu</string>
+    <string name="macaco">Macaco</string>
+
+</resources>
